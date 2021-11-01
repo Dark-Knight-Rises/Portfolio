@@ -2,7 +2,7 @@
 ## Welcome to my portfolio page.
 
 ![image](https://user-images.githubusercontent.com/39853295/139664813-a41b2df1-eda3-4bcd-a475-f4f549a85596.png)
-OBJECTIVE
+OBJECTIVE: 
 As a recent graduate, I am seeking a role which allows me to continue learning and perfect my skills and, encourages me to flourish as an Operations Executive. 
 
 ### Markdown
