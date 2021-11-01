@@ -1,9 +1,9 @@
 # Piyush Gour
 ## Welcome to my portfolio page.
 
-You can use the [editor on GitHub](https://github.com/Dark-Knight-Rises/Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![image](https://user-images.githubusercontent.com/39853295/139664813-a41b2df1-eda3-4bcd-a475-f4f549a85596.png)
+OBJECTIVE
+As a recent graduate, I am seeking a role which allows me to continue learning and perfect my skills and, encourages me to flourish as an Operations Executive. 
 
 ### Markdown
 
